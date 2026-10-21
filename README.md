@@ -6,8 +6,9 @@
 
 
 
-# 💫 About Me:
-I’m currently working on AI-powered software projects and web applications. I’m looking to collaborate on Open Source, AI, and Software Engineering projects. I’m looking for help with Artificial Intelligence, cybersecurity, and advanced software development. I’m currently learning Java, JavaScript, AI/ML, and Software Quality Assurance, Ask me about Web Development, Java, Databases, and Software Engineering   Fun fact+😂I believe consistency, discipline, and curiosity turn ideas into reality.
+## About Me
+
+🔭 I’m currently working on practical software projects, web applications, and AI-powered solutions to solve real-world problems. 👯 I’m looking to collaborate on open-source projects, AI-driven applications, and innovative software development initiatives where I can learn and grow with other developers. 🤝 I’m looking for help with Artificial Intelligence, Machine Learning, system design, and building scalable, secure applications. 🌱 I’m currently learning Java, JavaScript, database management, AI/ML, and Software Quality Assurance as I continue my Software Engineering journey. 💬 Ask me about Java, web development, databases, software development, and my journey into technology. ⚡ Fun fact: I believe every great developer starts somewhere, and I’m committed to learning consistently, building real-world projects, and turning ideas into working solutions — one line of code at a time. 🚀
 
 
 
